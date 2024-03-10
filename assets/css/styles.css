@@ -470,7 +470,7 @@ body.dark-theme{
   margin: 0 auto;
 }
 
-.home__sscroll-text{
+.home__scroll-text{
   display: none;
 }
 
@@ -1263,7 +1263,7 @@ body.dark-theme{
     width: 44px;
     height: 44px;
   }
-  .home__sscroll-box i{
+  .home__scroll-box i{
     font-size: 1.25rem;
   }
   .home--perfil .geometric-box{
